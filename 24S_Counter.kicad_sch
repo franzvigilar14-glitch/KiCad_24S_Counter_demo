@@ -3927,7 +3927,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:slide_switch_2.54mm"
 			(at 187.96 83.82 0)
 			(effects
 				(font
@@ -4064,7 +4064,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:74LS48"
 			(at 114.3 106.68 0)
 			(effects
 				(font
@@ -4994,7 +4994,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:tact_switch_5mm"
 			(at 190.5 35.56 0)
 			(effects
 				(font
@@ -5064,7 +5064,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:74LS192"
 			(at 83.82 48.26 0)
 			(effects
 				(font
@@ -5380,7 +5380,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:74LS48"
 			(at 114.3 45.72 0)
 			(effects
 				(font
@@ -6335,7 +6335,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:Terminal_Block_5mm"
 			(at 196.85 113.03 0)
 			(effects
 				(font
@@ -6935,7 +6935,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "my_footprints:74LS192"
 			(at 83.82 109.22 0)
 			(effects
 				(font
